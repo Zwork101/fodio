@@ -1,6 +1,12 @@
 Fodio Home Page
 ===============
 
+.. toctree::
+    :caption: Table of Contents
+
+    Fodio API/fodio
+    Fodio API/errors
+
 **What is fodio?**
 
 Fodio is a web scraping tool, used to easily traverse websites and collects data on. Some key
